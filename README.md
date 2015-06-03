@@ -8,16 +8,16 @@
 
 列印
 
-    print hello
+    print: hello
 
 顯示變數
 
-    print %val1
+    print: %val1
 
 運算(只能計算整數)
 
     cx_abacus: %val1 = ( 1 + 1 ) * 10 % 2
-	print %val1
+	print: %val1
 
 IF判斷 成立進入 fn_ok 函數 反之
 
